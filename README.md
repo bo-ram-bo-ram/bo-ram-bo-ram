@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&text=Boram-Kim&animation=twinkling&FontColor=#647979)
-<div align="center">
-  
+![header](https://capsule-render.vercel.app/api?type=Waving&height=150&text=Boram's%20GitHub&fontSize=100&animation=twinkling&fontColor=666699)
+
 [![Boram's github stats](https://github-readme-stats.vercel.app/api?username=bo-ram-bo-ram)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bo-ram-bo-ram&langs_count=10&layout=donut&hide=css,Html)](https://github.com/bo-ram-bo-ram/bo-ram-bo-ram)
+<div align="center">
 
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bo-ram-bo-ram&langs_count=10&layout=compact&hide=css,Html)](https://github.com/bo-ram-bo-ram/bo-ram-bo-ram)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bo-ram-bo-ram)]([벨로그링크](https://velog.io/@bo-ram-bo-ram/posts))
 
+ </div>
 <!--
 <img src="">
 <img src="">
